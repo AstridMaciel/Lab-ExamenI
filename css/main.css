@@ -12,6 +12,9 @@ span{position: relative;left: 60px;}
 #pajaro{position: relative;left:70px;bottom: 10px;}
 #follow{position: relative;left: 50px;}
 footer{background-color: #494545;}
-.display-ib{
-	color: #666666;
+footer .list{
+	list-style-type: none;
+}
+.red{
+	color: red:;
 }
