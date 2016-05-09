@@ -1,0 +1,17 @@
+header{background-color: #494545;}
+body{background-color: #f8fdfb;}
+.col-md-8{background-color: white;}
+.list-unstyled li{display: inline-block;padding-top: 30px;margin-right: 13px;color: white;}
+.display-ib{font-family: Dosis;display: inline-block;color: white;}
+.col-xs-8{margin-top: 10px;}
+.text-left p{font-family: Dosis;}
+button{border-radius: 25px;padding: 7px;width: 150px;font-family: Dosis;}
+section .list-unstyled li{color: black;position: relative;bottom: 40px;}
+span{position: relative;left: 60px;}
+.text-center{position: relative;left: 320px;margin-bottom: 40px;}
+#pajaro{position: relative;left:70px;bottom: 10px;}
+#follow{position: relative;left: 50px;}
+footer{background-color: #494545;}
+.display-ib{
+	color: #666666;
+}
